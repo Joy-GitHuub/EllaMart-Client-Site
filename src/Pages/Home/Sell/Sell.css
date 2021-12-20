@@ -1,0 +1,27 @@
+.single-sell {
+  
+    margin-bottom: 30px;
+    overflow: hidden;
+   
+}
+
+
+
+
+.single-sell img{
+    transition: .4s;
+    border-radius: 25px;
+}
+
+.single-sell:hover img{
+    transform: scale(.9);
+    border-radius: 25px;
+}
+
+
+
+@media only screen and (max-width: 575px) {
+    .single-sell{
+        margin: 5px 15px;
+    }
+}

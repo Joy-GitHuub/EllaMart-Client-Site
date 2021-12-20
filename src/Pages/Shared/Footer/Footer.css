@@ -1,0 +1,37 @@
+.footer-part {
+    background: #082835;
+    color: #fff;
+    padding: 60px 0 40px;
+}
+
+.footer-widget h5 {
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 25px;
+    color: rgb(255, 253, 253);
+}
+
+.footer-widget ul {
+    padding: 0;
+    list-style: none;
+}
+
+.footer-widget ul li {
+    font-size: 15px;
+    font-weight: 500;
+    margin: 8px 0;
+}
+
+.footer-widget p {
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-right: 50px;
+}
+.copyright {
+    text-align: center;
+    padding-top: 30px;
+    border-top: 2px solid #fffefb;
+    margin-top: 30px;
+}

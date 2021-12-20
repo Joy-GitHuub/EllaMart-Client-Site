@@ -1,0 +1,12 @@
+.Flasflash-deals_h1{
+    color: red;
+}
+.sell-all{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(53, 56, 230);
+    display: inline-block;
+    margin-bottom: 40px;
+    padding: 8px 35px;
+    border-radius: 25px;
+}

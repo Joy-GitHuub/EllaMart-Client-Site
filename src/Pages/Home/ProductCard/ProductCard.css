@@ -1,0 +1,27 @@
+.single-products {
+  
+    margin-bottom: 30px;
+    overflow: hidden;
+   
+}
+
+
+
+
+.single-products img{
+    transition: .4s;
+    border-radius: 25px;
+}
+
+.single-products:hover img{
+    transform: scale(1.1);
+    border-radius: 15px;
+}
+
+
+
+@media only screen and (max-width: 575px) {
+    .single-products{
+        margin: 5px 15px;
+    }
+}

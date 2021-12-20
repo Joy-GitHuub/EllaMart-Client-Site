@@ -1,0 +1,29 @@
+.banner-section{
+  
+}
+.sell{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    font-weight: 900;
+}
+.header-title{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 50px;
+}
+.header-btn{
+    margin-top: 40px;
+   color: rgb(74, 74, 182);
+}
+.btn-header{
+    background-color: rgb(34, 62, 185);
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 5px 25px;
+    border: 1px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.huge{
+        color: rgb(42, 190, 190);
+}
